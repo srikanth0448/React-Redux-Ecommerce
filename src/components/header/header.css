@@ -1,0 +1,39 @@
+header {
+    background-color: #fff !important;
+    border-top: 1px solid #dfe4e8;
+    border-bottom: 1px solid #dfe4e8;
+    padding: 5px;
+    margin-bottom: 30px;
+    overflow: hidden;
+    height: 60px;
+}
+
+header .header-div {
+    width: 80%;
+    margin: 0 auto; 
+}
+
+.logo-div{
+    width: 200px;
+    float: left;
+}
+
+.navbar {
+    float: right;
+}
+
+.logo {
+    margin-top: 10px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+ul.menu-ul {
+    list-style: none;
+}
+
+ul.menu-ul li {
+    float: left;
+    margin-left: 20px;
+}
